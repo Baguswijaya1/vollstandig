@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/low_level/low_level.egg-info/PKG-INFO
+writing dependency_links to ../../build/low_level/low_level.egg-info/dependency_links.txt
+writing entry points to ../../build/low_level/low_level.egg-info/entry_points.txt
+writing requirements to ../../build/low_level/low_level.egg-info/requires.txt
+writing top-level names to ../../build/low_level/low_level.egg-info/top_level.txt
+reading manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+writing manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+running build
+running build_py
+copying low_level/anti_collision.py -> /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level
+running install
+running install_lib
+copying /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level/anti_collision.py -> /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level
+byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/anti_collision.py to anti_collision.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/low_level/low_level.egg-info to /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info
+running install_scripts
+Installing anti_collision script to /home/bagus/ichimonji/odometry/install/low_level/lib/low_level
+writing list of installed files to '/home/bagus/ichimonji/odometry/build/low_level/install.log'

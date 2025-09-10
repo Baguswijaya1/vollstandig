@@ -1,0 +1,5 @@
+  File "/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/anti_collision.py", line 9
+    msg_type=Distance_sensor
+             
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

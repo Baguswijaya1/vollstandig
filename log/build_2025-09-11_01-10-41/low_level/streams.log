@@ -1,0 +1,27 @@
+[0.268s] Invoking command in '/home/bagus/ichimonji/odometry/src/low_level': PYTHONPATH=/home/bagus/ichimonji/odometry/build/low_level/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/low_level build --build-base /home/bagus/ichimonji/odometry/build/low_level/build install --record /home/bagus/ichimonji/odometry/build/low_level/install.log --single-version-externally-managed install_data
+[0.446s] running egg_info
+[0.446s] writing ../../build/low_level/low_level.egg-info/PKG-INFO
+[0.446s] writing dependency_links to ../../build/low_level/low_level.egg-info/dependency_links.txt
+[0.446s] writing entry points to ../../build/low_level/low_level.egg-info/entry_points.txt
+[0.447s] writing requirements to ../../build/low_level/low_level.egg-info/requires.txt
+[0.447s] writing top-level names to ../../build/low_level/low_level.egg-info/top_level.txt
+[0.449s] reading manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+[0.449s] writing manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+[0.450s] running build
+[0.450s] running build_py
+[0.450s] running install
+[0.450s] running install_lib
+[0.453s] byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/anti_collision.py to anti_collision.cpython-310.pyc
+[0.453s] running install_data
+[0.453s] running install_egg_info
+[0.453s]   File "/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/anti_collision.py", line 17
+[0.453s]     self.get_logger().info(f'terrain altitude = {terrain_altitude}'))
+[0.453s]                                                                     ^
+[0.453s] SyntaxError: unmatched ')'
+[0.453s] 
+[0.454s] removing '/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info' (and everything under it)
+[0.454s] Copying ../../build/low_level/low_level.egg-info to /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info
+[0.455s] running install_scripts
+[0.475s] Installing anti_collision script to /home/bagus/ichimonji/odometry/install/low_level/lib/low_level
+[0.475s] writing list of installed files to '/home/bagus/ichimonji/odometry/build/low_level/install.log'
+[0.496s] Invoked command in '/home/bagus/ichimonji/odometry/src/low_level' returned '0': PYTHONPATH=/home/bagus/ichimonji/odometry/build/low_level/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/low_level build --build-base /home/bagus/ichimonji/odometry/build/low_level/build install --record /home/bagus/ichimonji/odometry/build/low_level/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+anti_collision = low_level.anti_collision:main
+

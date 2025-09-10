@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'anti_collision=low_level.anti_collision:main'
         ],
     },
 )
