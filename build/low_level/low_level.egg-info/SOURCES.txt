@@ -10,6 +10,7 @@ setup.py
 ../../build/low_level/low_level.egg-info/zip-safe
 low_level/__init__.py
 low_level/anti_collision.py
+low_level/learn_mavros.py
 resource/low_level
 test/test_copyright.py
 test/test_flake8.py
