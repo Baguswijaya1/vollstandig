@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'anti_collision=low_level.anti_collision:main',
-            'learn_mavros=low_level.learn_mavros:main'
+            'learn_mavros=low_level.learn_mavros:main',
+            'opflow=low_level.opflow_read_mavros:main'
         ],
     },
 )

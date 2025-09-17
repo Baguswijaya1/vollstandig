@@ -9,7 +9,7 @@ class Data_retrieve(Node):
 
         self.attittude_subscription_ = self.create_subscription(
             msg_type=Altitude,
-            topic='/mavros/altitude',
+            topic='/mavros/',
             callback=self.print_alt,
             qos_profile=10
         )

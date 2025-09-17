@@ -1,0 +1,34 @@
+[0.281s] Invoking command in '/home/bagus/ichimonji/odometry/src/low_level': PYTHONPATH=/home/bagus/ichimonji/odometry/build/low_level/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/low_level build --build-base /home/bagus/ichimonji/odometry/build/low_level/build install --record /home/bagus/ichimonji/odometry/build/low_level/install.log --single-version-externally-managed install_data
+[0.384s] running egg_info
+[0.384s] writing ../../build/low_level/low_level.egg-info/PKG-INFO
+[0.384s] writing dependency_links to ../../build/low_level/low_level.egg-info/dependency_links.txt
+[0.384s] writing entry points to ../../build/low_level/low_level.egg-info/entry_points.txt
+[0.384s] writing requirements to ../../build/low_level/low_level.egg-info/requires.txt
+[0.384s] writing top-level names to ../../build/low_level/low_level.egg-info/top_level.txt
+[0.385s] reading manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+[0.385s] writing manifest file '../../build/low_level/low_level.egg-info/SOURCES.txt'
+[0.386s] running build
+[0.386s] running build_py
+[0.386s] copying low_level/opflow_read_pymavlink.py -> /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level
+[0.386s] copying low_level/learn_mavros.py -> /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level
+[0.386s] copying low_level/opflow_read_mavros.py -> /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level
+[0.386s] copying low_level/pixhawk-raspi.py -> /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level
+[0.386s] running install
+[0.386s] running install_lib
+[0.386s] copying /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level/opflow_read_pymavlink.py -> /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level
+[0.386s] copying /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level/learn_mavros.py -> /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level
+[0.386s] copying /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level/opflow_read_mavros.py -> /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level
+[0.387s] copying /home/bagus/ichimonji/odometry/build/low_level/build/lib/low_level/pixhawk-raspi.py -> /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level
+[0.387s] byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/opflow_read_pymavlink.py to opflow_read_pymavlink.cpython-310.pyc
+[0.387s] byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/learn_mavros.py to learn_mavros.cpython-310.pyc
+[0.387s] byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/opflow_read_mavros.py to opflow_read_mavros.cpython-310.pyc
+[0.387s] byte-compiling /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level/pixhawk-raspi.py to pixhawk-raspi.cpython-310.pyc
+[0.387s] running install_data
+[0.387s] running install_egg_info
+[0.388s] removing '/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info' (and everything under it)
+[0.388s] Copying ../../build/low_level/low_level.egg-info to /home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages/low_level-0.0.0-py3.10.egg-info
+[0.389s] running install_scripts
+[0.401s] Installing anti_collision script to /home/bagus/ichimonji/odometry/install/low_level/lib/low_level
+[0.401s] Installing learn_mavros script to /home/bagus/ichimonji/odometry/install/low_level/lib/low_level
+[0.401s] writing list of installed files to '/home/bagus/ichimonji/odometry/build/low_level/install.log'
+[0.415s] Invoked command in '/home/bagus/ichimonji/odometry/src/low_level' returned '0': PYTHONPATH=/home/bagus/ichimonji/odometry/build/low_level/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bagus/ichimonji/odometry/install/low_level/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/low_level build --build-base /home/bagus/ichimonji/odometry/build/low_level/build install --record /home/bagus/ichimonji/odometry/build/low_level/install.log --single-version-externally-managed install_data
